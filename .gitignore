@@ -1,0 +1,20 @@
+# Ignore unnecessary files and directories
+.gradle/
+/build/
+/captures/
+.externalNativeBuild/
+.cxx/
+local.properties
+.idea/
+*.iml
+*.apk
+*.ap_
+*.aab
+*.jks
+*.keystore
+.DS_Store
+*.log
+*.swp
+*.swo
+*~
+.vscode/

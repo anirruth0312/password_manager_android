@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_add_entry"
+        android:icon="@android:drawable/ic_input_add"
+        android:title="@string/add_entry" />
+    <item
+        android:id="@+id/nav_delete_entry"
+        android:icon="@android:drawable/ic_menu_delete"
+        android:title="@string/delete_entry" />
+    <item
+        android:id="@+id/nav_modify_entry"
+        android:icon="@android:drawable/ic_menu_edit"
+        android:title="@string/modify_entry" />
+    <item
+        android:id="@+id/nav_view_records"
+        android:icon="@android:drawable/ic_menu_view"
+        android:title="@string/view_records" />
+    <item
+        android:id="@+id/nav_logout"
+        android:icon="@android:drawable/ic_lock_power_off"
+        android:title="@string/logout" />
+</menu>
+

@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">PasswordManager</string>
+    <string name="app_subtitle">Your passwords, secured</string>
+    <string name="create_master_password">Create Master Password</string>
+    <string name="enter_master_password">Enter Master Password</string>
+    <string name="master_password">Master Password</string>
+    <string name="confirm_master_password">Confirm Master Password</string>
+    <string name="submit">Submit</string>
+    <string name="password_requirements">Password must be at least 10 characters with uppercase, lowercase, digit, and special character</string>
+    <string name="security_info_message">Your master password is encrypted and never stored in plain text</string>
+    <string name="app_icon_desc">App icon</string>
+    <string name="info_icon_desc">Information icon</string>
+
+    <!-- Dashboard strings -->
+    <string name="add_entry">Add Entry</string>
+    <string name="delete_entry">Delete Entry</string>
+    <string name="modify_entry">Modify Entry</string>
+    <string name="view_records">View Records</string>
+e    <string name="logout">Logout</string>
+    <string name="exit">Exit</string>
+
+    <!-- Section titles -->
+    <string name="add_new_entry">Add New Entry</string>
+    <string name="delete_entry_title">Delete Entry</string>
+    <string name="modify_entry_title">Modify Entry</string>
+    <string name="all_saved_records">All Saved Records</string>
+
+    <!-- Descriptions -->
+    <string name="add_entry_desc">Save a new password securely</string>
+    <string name="delete_entry_desc">Select an entry to remove permanently</string>
+    <string name="modify_entry_desc">Update the password for an existing entry</string>
+    <string name="view_records_desc">View all your stored credentials</string>
+
+    <!-- Input hints -->
+    <string name="website_url">Website URL</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="new_password">New Password</string>
+    <string name="select_url">Select URL</string>
+
+    <!-- Button text -->
+    <string name="update_entry">Update Entry</string>
+    <string name="no_records_found">No records found</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+</resources>
