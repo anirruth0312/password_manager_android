@@ -162,6 +162,8 @@
                 </com.google.android.material.textfield.TextInputLayout>
 
                 <!-- Password Requirements Hint -->
+
+                <!-- Submit Button -->
                 <TextView
                     android:id="@+id/password_hint"
                     android:layout_width="match_parent"
@@ -169,11 +171,11 @@
                     android:layout_marginTop="8dp"
                     android:layout_marginBottom="16dp"
                     android:text="@string/password_requirements"
-                    android:textSize="12sp"
                     android:textColor="?android:attr/textColorSecondary"
-                    android:visibility="gone" />
+                    android:textSize="12sp"
+                    android:visibility="gone"
+                    tools:visibility="visible" />
 
-                <!-- Submit Button -->
                 <com.google.android.material.button.MaterialButton
                     android:id="@+id/submit_button"
                     android:layout_width="match_parent"
